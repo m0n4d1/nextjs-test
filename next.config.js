@@ -1,4 +1,4 @@
 module.exports = {
-  basePath: "/nextjs-test",
-  assetPrefix: "/nextjs-test"
+  basePath: "/nextjs-test/",
+  assetPrefix: "/nextjs-test/"
 }
